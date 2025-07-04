@@ -19,7 +19,7 @@ Sentiti libera/o di contattarmi per collaborazioni, networking o anche solo per 
 ---
 
 ### Progetti:
-- Ho partecipato a questo [questo progetto] (https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
+- Ho partecipato a questo [questo progetto](https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
 ---
 
 ✨ *In continuo apprendimento, un passo (e un dataset) alla volta.*
