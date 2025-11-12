@@ -5,7 +5,7 @@ Mi appassionano l’analisi dei dati e il modo in cui numeri e visualizzazioni p
 
 💻 Mi sto formando nell’utilizzo di strumenti e linguaggi legati al mondo del **data analysis**, tra cui:
 - Linguaggi: **Python**, **Java**
-- Tool & Tecnologie: **Pandas**, **Excel**, **Power BI**, **Google Colab**
+- Tool & Tecnologie: **Pandas**, **Excel**, **Power BI**, **Google Colab**, **VSC**
 - Basi di dati: **MySQL**, **MongoDB**, **Neo4j**
 - Altri strumenti: **Pacchetto Adobe**, ambienti virtuali
 
@@ -20,6 +20,7 @@ Sentiti libera/o di contattarmi per collaborazioni, networking o anche solo per 
 
 ### Progetti:
 - Ho partecipato a [questo progetto sullo Studio Ghibli](https://github.com/gaiacassinelli1/POWER-BI-Studio-Ghibli)
+- e a [questo progetto sulla creazione di un agente di viaggio](https://github.com/gaiacassinelli1/agent-ai-agente-di-viaggio)
 ---
 
 ✨ *In continuo apprendimento, un passo (e un dataset) alla volta.*
